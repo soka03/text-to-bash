@@ -34,3 +34,8 @@
 2. **QLoRA 기반 파인튜닝 (RunPod 사용)**
 3. **OpenAI API 기반 의미 유사도 평가 자동화**
 4. **정확도 측정 및 모델 개선 반복**
+
+---
+
+## 학습된 모델
+- Hugging Face 모델: [`rlawltjd/code-llama3-7b-text-to-bash-data-augmented-v2`](https://huggingface.co/rlawltjd/code-llama3-7b-text-to-bash-data-augmented-v2)
