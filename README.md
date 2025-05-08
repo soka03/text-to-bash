@@ -16,7 +16,8 @@
 - **가공 과정**:
   1. **한국어 번역**: OpenAI API를 이용해 한국어로 데이터 번역
   2. **데이터 증강**: 의미를 유지한 동의어/어순 변경을 통해 텍스트 데이터 증강
-  3. **최종 데이터 수량**: 약 16,000 쌍
+  3. **최종 데이터**: [`rlawltjd/korean_nl2bash_augmented-v1`](https://huggingface.co/datasets/rlawltjd/korean_nl2bash_augmented-v1)
+  4. **최종 데이터 수량**: 약 16,000 쌍
 
 ---
 
